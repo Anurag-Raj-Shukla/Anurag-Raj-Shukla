@@ -2,7 +2,7 @@
 ### Building AI agents that actually do things
 
 <p align="center">
-  <a href="https://Anurag_Raj-Shukla.github.io">🌐 **Live Portfolio Website**</a> | 
+  <a href="https://Anurag-Raj-Shukla.github.io">🌐 **Live Portfolio Website**</a> | 
   <a href="#-featured-projects">📁 **Projects**</a> | 
   <a href="#-skills">🛠️ **Skills**</a>
 </p>
