@@ -38,7 +38,7 @@ B.Tech Computer Science student specializing in **AI/ML** and full-stack develop
 <td width="50%" valign="top">
 
 ### 🟥 AI Customer Support Agent
-<img src="https://img.shields.io/badge/LIVE-B3141C?style=flat-square&labelColor=111111"/>
+<img src="https://img.shields.io/badge/BUILT-B3141C?style=flat-square&labelColor=111111"/>
 
 Full-stack refund agent built with LangGraph — an LLM-driven agent loop validates requests against a mock CRM and policy engine, with an admin dashboard showing real-time reasoning logs.
 
