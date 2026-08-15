@@ -26,7 +26,7 @@ B.Tech Computer Science student specializing in **AI/ML** and full-stack develop
 - 🔭 Currently freelancing as an **AI/ML Engineer**, building clinician-facing AI tools
 - 🧠 Interested in agentic AI systems, NLP, and applied ML
 - 🌱 Recently wrapped an internship at **HEProAI**, building student readiness scoring models
-- 📄 Wrote a review paper on Automatic Text Summarisation (100+ papers surveyed)
+- 📄 Writing a review paper on Automatic Text Summarisation (100+ papers surveyed)
 - ⚡ 150+ LeetCode problems solved · 5★ HackerRank in Python & C++
 
 <br/>
